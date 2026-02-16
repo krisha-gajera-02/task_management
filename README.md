@@ -34,6 +34,7 @@ Supported operations:
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/krisha-gajera-02/task_management
+
 cd task_management_system
 
 ##🧪 CLI Commands
