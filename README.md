@@ -116,10 +116,3 @@ Task search & filter
 CSV export
 
 Multi-user support
-
-SQLite backend
-
-```
-
-#https://docs.google.com/document/d/1ZAHh-ndZnHKrHXFzZCH5lLr4KF_Ljfzv3FblwpOTSS8/edit?tab=t.0#heading=h.4l3vr8stfgjp
-```
